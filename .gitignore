@@ -33,4 +33,4 @@
 /.recommenders/
 
 #properties
-.properties
+connect.properties
